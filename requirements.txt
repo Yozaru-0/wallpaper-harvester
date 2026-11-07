@@ -1,0 +1,2 @@
+# Zero external dependencies required.
+# Portolan Wallpaper Harvester runs entirely on Python's Standard Library (Python 3.8+).
